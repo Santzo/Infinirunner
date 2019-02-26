@@ -164,10 +164,9 @@ public class SaveDataManager : MonoBehaviour
 
             aInput =  Mathf.Round(aInput);
             string input = aInput.ToString();
-            // This string contains 78 different characters in random order.
-            string mix = "QDXkW<_(V?cqK.lJ>-*y&zv9prf8biYCFeMxBm6ZnG3H4OuS1UaI5TwtoA#Rs!,7d2@L^gNhj)EP$0";
+            string mix = "QDXkW<_(V?cqK.lJ>-*y&zv9rpf8biYCFeMxBm6ZnG3H4uOS1UaI5TwtoA#Rs!,7d2@L^gNjh)EP$0";
             char[] result = (input ?? "").ToCharArray();
-            for (int i = 0; i < result.Length; ++i)
+            for (int i = 0; i < result.Length; i++)
             {
                 int j = mix.IndexOf(result[i]);
                 result[i] = (j < 0) ? result[i] : mix[(j + 39) % 78];
@@ -179,10 +178,9 @@ public class SaveDataManager : MonoBehaviour
     public string DeCrypt(string input, bool crypt = true)
     {
 
-        // This string contains 78 different characters in random order.
-        var mix = "QDXkW<_(V?cqK.lJ>-*y&zv9prf8biYCFeMxBm6ZnG3H4OuS1UaI5TwtoA#Rs!,7d2@L^gNhj)EP$0";
+        var mix = "QDXkW<_(V?cqK.lJ>-*y&zv9rpf8biYCFeMxBm6ZnG3H4uOS1UaI5TwtoA#Rs!,7d2@L^gNjh)EP$0";
         var result = (input ?? "").ToCharArray();
-        for (int i = 0; i < result.Length; ++i)
+        for (int i = 0; i < result.Length; i++)
         {
             int j = mix.IndexOf(result[i]);
             result[i] = (j < 0) ? result[i] : mix[(j + 39) % 78];
