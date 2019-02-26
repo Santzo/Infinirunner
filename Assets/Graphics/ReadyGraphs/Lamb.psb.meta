@@ -1,0 +1,463 @@
+fileFormatVersion: 2
+guid: 1be2989fef0f603488d196c27b974a55
+ScriptedImporter:
+  fileIDToRecycleName:
+    100014: Mouth_GO/Mouth_GO
+    100016: Mouth_GO/Mouth_GO/Blood Splatter
+    100018: Mouth_GO/Mouth_GO/Body
+    100020: Mouth_GO/Mouth_GO/Dead Eyes
+    100022: Mouth_GO/Mouth_GO/Dead Mouth
+    100024: Mouth_GO/Mouth_GO/Eyes
+    100026: Mouth_GO/Mouth_GO/Head
+    100028: Mouth_GO/Mouth_GO/Leg 1
+    100030: Mouth_GO/Mouth_GO/Leg 2
+    100032: Mouth_GO/Mouth_GO/Leg 3
+    100034: Mouth_GO/Mouth_GO/Leg 4
+    100036: Mouth_GO/Mouth_GO/Mouth
+    400014: Mouth_GO/Mouth_GO/Transform
+    400016: Mouth_GO/Mouth_GO/Blood Splatter/Transform
+    400018: Mouth_GO/Mouth_GO/Body/Transform
+    400020: Mouth_GO/Mouth_GO/Dead Eyes/Transform
+    400022: Mouth_GO/Mouth_GO/Dead Mouth/Transform
+    400024: Mouth_GO/Mouth_GO/Eyes/Transform
+    400026: Mouth_GO/Mouth_GO/Head/Transform
+    400028: Mouth_GO/Mouth_GO/Leg 1/Transform
+    400030: Mouth_GO/Mouth_GO/Leg 2/Transform
+    400032: Mouth_GO/Mouth_GO/Leg 3/Transform
+    400034: Mouth_GO/Mouth_GO/Leg 4/Transform
+    400036: Mouth_GO/Mouth_GO/Mouth/Transform
+    2800000: Lamb
+    21200012: Mouth_GO/Mouth_GO/Blood Splatter/SpriteRenderer
+    21200014: Mouth_GO/Mouth_GO/Body/SpriteRenderer
+    21200016: Mouth_GO/Mouth_GO/Dead Eyes/SpriteRenderer
+    21200018: Mouth_GO/Mouth_GO/Dead Mouth/SpriteRenderer
+    21200020: Mouth_GO/Mouth_GO/Eyes/SpriteRenderer
+    21200022: Mouth_GO/Mouth_GO/Head/SpriteRenderer
+    21200024: Mouth_GO/Mouth_GO/Leg 1/SpriteRenderer
+    21200026: Mouth_GO/Mouth_GO/Leg 2/SpriteRenderer
+    21200028: Mouth_GO/Mouth_GO/Leg 3/SpriteRenderer
+    21200030: Mouth_GO/Mouth_GO/Leg 4/SpriteRenderer
+    21200032: Mouth_GO/Mouth_GO/Mouth/SpriteRenderer
+    21300000: Body
+    21300002: Leg 4
+    21300004: Leg 3
+    21300006: Leg 2
+    21300008: Leg 1
+    21300010: Head
+    21300012: Blood Splatter
+    21300014: Dead Eyes
+    21300016: Eyes
+    21300018: Dead Mouth
+    21300020: Mouth
+    100100002: Mouth_GO
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Body
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 158
+      width: 208
+      height: 119
+    spriteID: b164427b36ebcbb4ca741293aa4ba9c6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -27, y: 125}
+  - name: Leg 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 375
+      width: 110
+      height: 37
+    spriteID: 816f7cb98041c6946940e9e9ca3118e2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -62, y: 364}
+  - name: Leg 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 208
+      width: 8
+      height: 43
+    spriteID: 72d217dad31cd524caf4658ff4664e03
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 156, y: 204}
+  - name: Leg 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 158
+      width: 9
+      height: 42
+    spriteID: 0cd593a54a5d84e4799e8d6975e2b464
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 26, y: 158}
+  - name: Leg 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 237
+      y: 158
+      width: 8
+      height: 35
+    spriteID: f6ed9c12fd94eac4a82dd10ad1db58f5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 145, y: 158}
+  - name: Head
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 285
+      width: 112
+      height: 82
+    spriteID: f3c10adbb333b9d46885d6b06cdd3808
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 215}
+  - name: Blood Splatter
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 239
+      height: 146
+    spriteID: 4420b75b3fc167e419d6a745b123296e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: -2}
+  - name: Dead Eyes
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 420
+      width: 51
+      height: 23
+    spriteID: 6d86cf2446f61b143914d44ef6ad88b0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -27, y: 313}
+  - name: Eyes
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 63
+      y: 420
+      width: 45
+      height: 21
+    spriteID: aa2085375a541a943979c81308951ad7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 29, y: 312}
+  - name: Dead Mouth
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 451
+      width: 39
+      height: 19
+    spriteID: 07cbf96ee4883b14c9e424ea4505e165
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -33, y: 369}
+  - name: Mouth
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 51
+      y: 451
+      width: 39
+      height: 19
+    spriteID: 20b8431b85914844b901693701e72f0d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 14, y: 366}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 0
+  importHiddenLayers: 0
+  importedTextureWidth: 256
+  importedTextureHeight: 512
+  documentSize: {x: 239, y: 152}
+  textureActualWidth: 256
+  textureActualHeight: 512
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Blood Splatter
+    spriteName: Blood Splatter
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4420b75b3fc167e419d6a745b123296e
+    layerID: -531148009
+    mosaicPosition: {x: 4, y: 4}
+  - name: Dead Eyes
+    spriteName: Dead Eyes
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6d86cf2446f61b143914d44ef6ad88b0
+    layerID: 1785256222
+    mosaicPosition: {x: 4, y: 420}
+  - name: Eyes
+    spriteName: Eyes
+    isGroup: 0
+    parentIndex: -1
+    spriteID: aa2085375a541a943979c81308951ad7
+    layerID: -1354785264
+    mosaicPosition: {x: 63, y: 420}
+  - name: Dead Mouth
+    spriteName: Dead Mouth
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 07cbf96ee4883b14c9e424ea4505e165
+    layerID: 1902705503
+    mosaicPosition: {x: 4, y: 451}
+  - name: Mouth
+    spriteName: Mouth
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 20b8431b85914844b901693701e72f0d
+    layerID: -676713205
+    mosaicPosition: {x: 51, y: 451}
+  - name: Head
+    spriteName: Head
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f3c10adbb333b9d46885d6b06cdd3808
+    layerID: -158744160
+    mosaicPosition: {x: 4, y: 285}
+  - name: Leg 4
+    spriteName: Leg 4
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 816f7cb98041c6946940e9e9ca3118e2
+    layerID: -495396230
+    mosaicPosition: {x: 4, y: 375}
+  - name: Leg 3
+    spriteName: Leg 3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 72d217dad31cd524caf4658ff4664e03
+    layerID: -495396227
+    mosaicPosition: {x: 220, y: 208}
+  - name: Leg 2
+    spriteName: Leg 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0cd593a54a5d84e4799e8d6975e2b464
+    layerID: -495396228
+    mosaicPosition: {x: 220, y: 158}
+  - name: Leg 1
+    spriteName: Leg 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f6ed9c12fd94eac4a82dd10ad1db58f5
+    layerID: -495396225
+    mosaicPosition: {x: 237, y: 158}
+  - name: Body
+    spriteName: Body
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b164427b36ebcbb4ca741293aa4ba9c6
+    layerID: -911352830
+    mosaicPosition: {x: 4, y: 158}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+  boneGOs: []
+  generateGOHierarchy: 0

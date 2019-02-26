@@ -1,0 +1,495 @@
+fileFormatVersion: 2
+guid: 12c9a29c580b54346821f24a5ba21b61
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: Head_GO/Head_GO
+    100002: Head_GO/Head_GO/Body
+    100004: Head_GO/Head_GO/Gun
+    100006: Head_GO/Head_GO/GunArm
+    100008: Head_GO/Head_GO/GunHand
+    100010: Head_GO/Head_GO/Head
+    100012: Head_GO/Head_GO/Left Leg
+    100014: Head_GO/Head_GO/Left Thigh
+    100016: Head_GO/Head_GO/OtherArm
+    100018: Head_GO/Head_GO/OtherHand
+    100020: Head_GO/Head_GO/Right Legg
+    100022: Head_GO/Head_GO/Right Thigh
+    100024: Head_GO/Head_GO/Tongue
+    400000: Head_GO/Head_GO/Transform
+    400002: Head_GO/Head_GO/Body/Transform
+    400004: Head_GO/Head_GO/Gun/Transform
+    400006: Head_GO/Head_GO/GunArm/Transform
+    400008: Head_GO/Head_GO/GunHand/Transform
+    400010: Head_GO/Head_GO/Head/Transform
+    400012: Head_GO/Head_GO/Left Leg/Transform
+    400014: Head_GO/Head_GO/Left Thigh/Transform
+    400016: Head_GO/Head_GO/OtherArm/Transform
+    400018: Head_GO/Head_GO/OtherHand/Transform
+    400020: Head_GO/Head_GO/Right Legg/Transform
+    400022: Head_GO/Head_GO/Right Thigh/Transform
+    400024: Head_GO/Head_GO/Tongue/Transform
+    2800000: WalkerAlien
+    21200000: Head_GO/Head_GO/Body/SpriteRenderer
+    21200002: Head_GO/Head_GO/Gun/SpriteRenderer
+    21200004: Head_GO/Head_GO/GunArm/SpriteRenderer
+    21200006: Head_GO/Head_GO/GunHand/SpriteRenderer
+    21200008: Head_GO/Head_GO/Head/SpriteRenderer
+    21200010: Head_GO/Head_GO/Left Leg/SpriteRenderer
+    21200012: Head_GO/Head_GO/Left Thigh/SpriteRenderer
+    21200014: Head_GO/Head_GO/OtherArm/SpriteRenderer
+    21200016: Head_GO/Head_GO/OtherHand/SpriteRenderer
+    21200018: Head_GO/Head_GO/Right Legg/SpriteRenderer
+    21200020: Head_GO/Head_GO/Right Thigh/SpriteRenderer
+    21200022: Head_GO/Head_GO/Tongue/SpriteRenderer
+    21300000: Gun
+    21300002: Tongue
+    21300004: OtherHand
+    21300006: OtherArm
+    21300008: Left Thigh
+    21300010: Left Leg
+    21300012: Right Thigh
+    21300014: Right Legg
+    21300016: GunHand
+    21300018: GunArm
+    21300020: Body
+    21300022: Head
+    100100000: Head_GO
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Gun
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 41
+      y: 77
+      width: 44
+      height: 40
+    spriteID: a8da75f9fa78b6d44b84043ff79bea01
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 41, y: -31}
+  - name: Tongue
+    originalName: 
+    pivot: {x: 0.597346, y: 0.924281}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 154
+      width: 27
+      height: 53
+    spriteID: 62f08d456735b6a49b3e4861bc927914
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -59, y: 71}
+  - name: OtherHand
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 41
+      y: 125
+      width: 32
+      height: 37
+    spriteID: b6059e5f521ba5143997eb1deaa3c7db
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -76, y: 62}
+  - name: OtherArm
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 94
+      y: 106
+      width: 23
+      height: 19
+    spriteID: 77e6704874af1634488b58a7f1f3e3bb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 18}
+  - name: Left Thigh
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 94
+      y: 42
+      width: 18
+      height: 27
+    spriteID: 049e6d3e2087c53439f48f0b460f0838
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 28, y: 15}
+  - name: Left Leg
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 215
+      width: 26
+      height: 26
+    spriteID: a65cdc188ce33a042bf171414207a996
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -57, y: 214}
+  - name: Right Thigh
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 94
+      y: 4
+      width: 17
+      height: 30
+    spriteID: ab7b40b9e94ac52468624021613a5072
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 10, y: -22}
+  - name: Right Legg
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 41
+      y: 206
+      width: 24
+      height: 26
+    spriteID: 82997080ddb028b4684b4d1541b880c0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -46, y: 206}
+  - name: GunHand
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 41
+      y: 170
+      width: 35
+      height: 28
+    spriteID: abd1998ed69df394f81e08ae4af10495
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 19, y: 74}
+  - name: GunArm
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 94
+      y: 77
+      width: 21
+      height: 21
+    spriteID: 5aae6489d9157054a9b83cc451f285fd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 37, y: -13}
+  - name: Body
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 77
+      width: 29
+      height: 69
+    spriteID: db074949e8fca0041b257d4913636fd0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -67, y: 28}
+  - name: Head
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 82
+      height: 65
+    spriteID: 55a2b0effcfc0a642bbd341d81d0e7d5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -48, y: -109}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 0
+  importHiddenLayers: 0
+  importedTextureWidth: 128
+  importedTextureHeight: 256
+  documentSize: {x: 149, y: 178}
+  textureActualWidth: 128
+  textureActualHeight: 256
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Gun
+    spriteName: Gun
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a8da75f9fa78b6d44b84043ff79bea01
+    layerID: -1985798820
+    mosaicPosition: {x: 41, y: 77}
+  - name: Tongue
+    spriteName: Tongue
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 62f08d456735b6a49b3e4861bc927914
+    layerID: -77113806
+    mosaicPosition: {x: 4, y: 154}
+  - name: OtherHand
+    spriteName: OtherHand
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b6059e5f521ba5143997eb1deaa3c7db
+    layerID: 1427224847
+    mosaicPosition: {x: 41, y: 125}
+  - name: OtherArm
+    spriteName: OtherArm
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 77e6704874af1634488b58a7f1f3e3bb
+    layerID: -249759366
+    mosaicPosition: {x: 94, y: 106}
+  - name: Left Thigh
+    spriteName: Left Thigh
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 049e6d3e2087c53439f48f0b460f0838
+    layerID: 161951237
+    mosaicPosition: {x: 94, y: 42}
+  - name: Left Leg
+    spriteName: Left Leg
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a65cdc188ce33a042bf171414207a996
+    layerID: -487878811
+    mosaicPosition: {x: 4, y: 215}
+  - name: Right Thigh
+    spriteName: Right Thigh
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ab7b40b9e94ac52468624021613a5072
+    layerID: -89187896
+    mosaicPosition: {x: 94, y: 4}
+  - name: Right Legg
+    spriteName: Right Legg
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 82997080ddb028b4684b4d1541b880c0
+    layerID: 434409773
+    mosaicPosition: {x: 41, y: 206}
+  - name: GunHand
+    spriteName: GunHand
+    isGroup: 0
+    parentIndex: -1
+    spriteID: abd1998ed69df394f81e08ae4af10495
+    layerID: -298529225
+    mosaicPosition: {x: 41, y: 170}
+  - name: GunArm
+    spriteName: GunArm
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5aae6489d9157054a9b83cc451f285fd
+    layerID: -1447834742
+    mosaicPosition: {x: 94, y: 77}
+  - name: Body
+    spriteName: Body
+    isGroup: 0
+    parentIndex: -1
+    spriteID: db074949e8fca0041b257d4913636fd0
+    layerID: -911352830
+    mosaicPosition: {x: 4, y: 77}
+  - name: Head
+    spriteName: Head
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 55a2b0effcfc0a642bbd341d81d0e7d5
+    layerID: 0
+    mosaicPosition: {x: 4, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+  boneGOs: []
+  generateGOHierarchy: 0

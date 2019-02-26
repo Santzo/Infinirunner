@@ -1,0 +1,463 @@
+fileFormatVersion: 2
+guid: 89f501e9630e9e9498c99fd5bce5037b
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: Base_GO/Base_GO
+    100002: Base_GO/Base_GO/Base
+    100004: Base_GO/Base_GO/Istuin
+    100006: 'Base_GO/Base_GO/Kupu #1'
+    100008: Base_GO/Base_GO/KupuHeijastus
+    100010: Base_GO/Base_GO/Nappulat
+    100012: Base_GO/Base_GO/Oikea Arm
+    100014: Base_GO/Base_GO/Paa
+    100016: Base_GO/Base_GO/Salama1
+    100018: Base_GO/Base_GO/Salama2
+    100020: Base_GO/Base_GO/Salama3
+    100022: Base_GO/Base_GO/Vasen Arm
+    400000: Base_GO/Base_GO/Transform
+    400002: Base_GO/Base_GO/Base/Transform
+    400004: Base_GO/Base_GO/Istuin/Transform
+    400006: 'Base_GO/Base_GO/Kupu #1/Transform'
+    400008: Base_GO/Base_GO/KupuHeijastus/Transform
+    400010: Base_GO/Base_GO/Nappulat/Transform
+    400012: Base_GO/Base_GO/Oikea Arm/Transform
+    400014: Base_GO/Base_GO/Paa/Transform
+    400016: Base_GO/Base_GO/Salama1/Transform
+    400018: Base_GO/Base_GO/Salama2/Transform
+    400020: Base_GO/Base_GO/Salama3/Transform
+    400022: Base_GO/Base_GO/Vasen Arm/Transform
+    2800000: Alien
+    21200000: Base_GO/Base_GO/Base/SpriteRenderer
+    21200002: Base_GO/Base_GO/Istuin/SpriteRenderer
+    21200004: 'Base_GO/Base_GO/Kupu #1/SpriteRenderer'
+    21200006: Base_GO/Base_GO/KupuHeijastus/SpriteRenderer
+    21200008: Base_GO/Base_GO/Nappulat/SpriteRenderer
+    21200010: Base_GO/Base_GO/Oikea Arm/SpriteRenderer
+    21200012: Base_GO/Base_GO/Paa/SpriteRenderer
+    21200014: Base_GO/Base_GO/Salama1/SpriteRenderer
+    21200016: Base_GO/Base_GO/Salama2/SpriteRenderer
+    21200018: Base_GO/Base_GO/Salama3/SpriteRenderer
+    21200020: Base_GO/Base_GO/Vasen Arm/SpriteRenderer
+    21300000: 'Kupu #1'
+    21300002: Vasen Arm
+    21300004: Oikea Arm
+    21300006: Istuin
+    21300008: Paa
+    21300010: Nappulat
+    21300012: KupuHeijastus
+    21300014: Salama1
+    21300016: Salama2
+    21300018: Salama3
+    21300020: Base
+    100100000: Base_GO
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: 'Kupu #1'
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 330
+      y: 219
+      width: 313
+      height: 249
+    spriteID: a6f6e660cc34235478c942ea7a4419e3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 139, y: 49}
+  - name: Vasen Arm
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 965
+      y: 4
+      width: 43
+      height: 48
+    spriteID: 613be86b578badf4ca00c35a464351fe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 589, y: -161}
+  - name: Oikea Arm
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 814
+      y: 151
+      width: 48
+      height: 40
+    spriteID: 04454fa986cadb9499ecdccd034f4a08
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 531, y: -22}
+  - name: Istuin
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 814
+      y: 4
+      width: 86
+      height: 93
+    spriteID: 6fcbe2dc1a5cad642b7d476d475211f0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 503, y: -166}
+  - name: Paa
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 710
+      y: 4
+      width: 96
+      height: 108
+    spriteID: 9880a13277b30b144b8dd0bf7d7df261
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 402, y: -255}
+  - name: Nappulat
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 814
+      y: 105
+      width: 167
+      height: 38
+    spriteID: cf145523df0071c4b88e7b3df5e52a47
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 553, y: -123}
+  - name: KupuHeijastus
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 219
+      width: 318
+      height: 334
+    spriteID: 6f5adcc8e3fe0594da85fa90fcc6f952
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -185, y: 132}
+  - name: Salama1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 651
+      y: 219
+      width: 26
+      height: 72
+    spriteID: b02e039e86558084fbc43faa5342e1c5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 327, y: 215}
+  - name: Salama2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 710
+      y: 120
+      width: 67
+      height: 76
+    spriteID: 8aab350daf129a4458d7f37454c41c2a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 589, y: 113}
+  - name: Salama3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 908
+      y: 4
+      width: 49
+      height: 83
+    spriteID: 33008362ec2a78f43aa9f4c54484d380
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 394, y: 4}
+  - name: Base
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 698
+      height: 207
+    spriteID: 9ac1f6a833abb5d42afe9a9a9a89c312
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2, y: -79}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 0
+  importHiddenLayers: 0
+  importedTextureWidth: 1024
+  importedTextureHeight: 1024
+  documentSize: {x: 702, y: 433}
+  textureActualWidth: 1024
+  textureActualHeight: 1024
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: 'Kupu #1'
+    spriteName: 'Kupu #1'
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a6f6e660cc34235478c942ea7a4419e3
+    layerID: 495183245
+    mosaicPosition: {x: 330, y: 219}
+  - name: Vasen Arm
+    spriteName: Vasen Arm
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 613be86b578badf4ca00c35a464351fe
+    layerID: -2096082143
+    mosaicPosition: {x: 965, y: 4}
+  - name: Oikea Arm
+    spriteName: Oikea Arm
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 04454fa986cadb9499ecdccd034f4a08
+    layerID: -657189869
+    mosaicPosition: {x: 814, y: 151}
+  - name: Istuin
+    spriteName: Istuin
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6fcbe2dc1a5cad642b7d476d475211f0
+    layerID: 304216114
+    mosaicPosition: {x: 814, y: 4}
+  - name: Paa
+    spriteName: Paa
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9880a13277b30b144b8dd0bf7d7df261
+    layerID: 696031048
+    mosaicPosition: {x: 710, y: 4}
+  - name: Nappulat
+    spriteName: Nappulat
+    isGroup: 0
+    parentIndex: -1
+    spriteID: cf145523df0071c4b88e7b3df5e52a47
+    layerID: 314084267
+    mosaicPosition: {x: 814, y: 105}
+  - name: KupuHeijastus
+    spriteName: KupuHeijastus
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6f5adcc8e3fe0594da85fa90fcc6f952
+    layerID: 1463092949
+    mosaicPosition: {x: 4, y: 219}
+  - name: Salama1
+    spriteName: Salama1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b02e039e86558084fbc43faa5342e1c5
+    layerID: 1841309210
+    mosaicPosition: {x: 651, y: 219}
+  - name: Salama2
+    spriteName: Salama2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8aab350daf129a4458d7f37454c41c2a
+    layerID: 1841309209
+    mosaicPosition: {x: 710, y: 120}
+  - name: Salama3
+    spriteName: Salama3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 33008362ec2a78f43aa9f4c54484d380
+    layerID: 1841309208
+    mosaicPosition: {x: 908, y: 4}
+  - name: Base
+    spriteName: Base
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9ac1f6a833abb5d42afe9a9a9a89c312
+    layerID: 0
+    mosaicPosition: {x: 4, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+  boneGOs: []
+  generateGOHierarchy: 0
